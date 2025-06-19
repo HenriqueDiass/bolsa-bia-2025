@@ -1,0 +1,927 @@
+[
+  {
+    "municipio": "Abreu e Lima",
+    "codigoMunicipio": "2600054",
+    "população": 100698
+  },
+  {
+    "municipio": "Afogados da Ingazeira",
+    "codigoMunicipio": "2600104",
+    "população": 37546
+  },
+  {
+    "municipio": "Afrânio",
+    "codigoMunicipio": "2600203",
+    "população": 19981
+  },
+  {
+    "municipio": "Agrestina",
+    "codigoMunicipio": "2600302",
+    "população": 25240
+  },
+  {
+    "municipio": "Alagoinha",
+    "codigoMunicipio": "2600609",
+    "população": 14798
+  },
+  {
+    "municipio": "Aliança",
+    "codigoMunicipio": "2600708",
+    "população": 38408
+  },
+  {
+    "municipio": "Altinho",
+    "codigoMunicipio": "2600807",
+    "população": 22996
+  },
+  {
+    "municipio": "Amaraji",
+    "codigoMunicipio": "2600906",
+    "população": 22910
+  },
+  {
+    "municipio": "Angelim",
+    "codigoMunicipio": "2601003",
+    "população": 11301
+  },
+  {
+    "municipio": "Araripina",
+    "codigoMunicipio": "2601102",
+    "população": 85301
+  },
+  {
+    "municipio": "Araçoiaba",
+    "codigoMunicipio": "2601052",
+    "população": 20936
+  },
+  {
+    "municipio": "Arcoverde",
+    "codigoMunicipio": "2601201",
+    "população": 75295
+  },
+  {
+    "municipio": "Barra de Guabiraba",
+    "codigoMunicipio": "2601300",
+    "população": 14632
+  },
+  {
+    "municipio": "Barreiros",
+    "codigoMunicipio": "2601409",
+    "população": 42866
+  },
+  {
+    "municipio": "Belo Jardim",
+    "codigoMunicipio": "2601706",
+    "população": 76930
+  },
+  {
+    "municipio": "Belém de Maria",
+    "codigoMunicipio": "2601508",
+    "população": 12169
+  },
+  {
+    "municipio": "Belém do São Francisco",
+    "codigoMunicipio": "2601607",
+    "população": 20730
+  },
+  {
+    "municipio": "Betânia",
+    "codigoMunicipio": "2601805",
+    "população": 12811
+  },
+  {
+    "municipio": "Bezerros",
+    "codigoMunicipio": "2601904",
+    "população": 60960
+  },
+  {
+    "municipio": "Bodocó",
+    "codigoMunicipio": "2602001",
+    "população": 38605
+  },
+  {
+    "municipio": "Bom Conselho",
+    "codigoMunicipio": "2602100",
+    "população": 48975
+  },
+  {
+    "municipio": "Bom Jardim",
+    "codigoMunicipio": "2602209",
+    "população": 40038
+  },
+  {
+    "municipio": "Bonito",
+    "codigoMunicipio": "2602308",
+    "população": 38101
+  },
+  {
+    "municipio": "Brejinho",
+    "codigoMunicipio": "2602506",
+    "população": 7489
+  },
+  {
+    "municipio": "Brejo da Madre de Deus",
+    "codigoMunicipio": "2602605",
+    "população": 51696
+  },
+  {
+    "municipio": "Brejão",
+    "codigoMunicipio": "2602407",
+    "população": 8981
+  },
+  {
+    "municipio": "Buenos Aires",
+    "codigoMunicipio": "2602704",
+    "população": 13224
+  },
+  {
+    "municipio": "Buíque",
+    "codigoMunicipio": "2602803",
+    "população": 59448
+  },
+  {
+    "municipio": "Cabo de Santo Agostinho",
+    "codigoMunicipio": "2602902",
+    "população": 210796
+  },
+  {
+    "municipio": "Cabrobó",
+    "codigoMunicipio": "2603009",
+    "população": 34778
+  },
+  {
+    "municipio": "Cachoeirinha",
+    "codigoMunicipio": "2603108",
+    "população": 20618
+  },
+  {
+    "municipio": "Caetés",
+    "codigoMunicipio": "2603207",
+    "população": 29065
+  },
+  {
+    "municipio": "Calumbi",
+    "codigoMunicipio": "2603405",
+    "população": 5744
+  },
+  {
+    "municipio": "Calçado",
+    "codigoMunicipio": "2603306",
+    "população": 10983
+  },
+  {
+    "municipio": "Camaragibe",
+    "codigoMunicipio": "2603454",
+    "população": 159945
+  },
+  {
+    "municipio": "Camocim de São Félix",
+    "codigoMunicipio": "2603504",
+    "população": 19032
+  },
+  {
+    "municipio": "Camutanga",
+    "codigoMunicipio": "2603603",
+    "população": 8592
+  },
+  {
+    "municipio": "Canhotinho",
+    "codigoMunicipio": "2603702",
+    "população": 24743
+  },
+  {
+    "municipio": "Capoeiras",
+    "codigoMunicipio": "2603801",
+    "população": 20048
+  },
+  {
+    "municipio": "Carnaubeira da Penha",
+    "codigoMunicipio": "2603926",
+    "população": 13117
+  },
+  {
+    "municipio": "Carnaíba",
+    "codigoMunicipio": "2603900",
+    "população": 19666
+  },
+  {
+    "municipio": "Carpina",
+    "codigoMunicipio": "2604007",
+    "população": 85131
+  },
+  {
+    "municipio": "Caruaru",
+    "codigoMunicipio": "2604106",
+    "população": 369343
+  },
+  {
+    "municipio": "Casinhas",
+    "codigoMunicipio": "2604155",
+    "população": 14395
+  },
+  {
+    "municipio": "Catende",
+    "codigoMunicipio": "2604205",
+    "população": 43778
+  },
+  {
+    "municipio": "Cedro",
+    "codigoMunicipio": "2604304",
+    "população": 11972
+  },
+  {
+    "municipio": "Chã Grande",
+    "codigoMunicipio": "2604502",
+    "população": 21929
+  },
+  {
+    "municipio": "Chã de Alegria",
+    "codigoMunicipio": "2604403",
+    "população": 13641
+  },
+  {
+    "municipio": "Condado",
+    "codigoMunicipio": "2604601",
+    "população": 26755
+  },
+  {
+    "municipio": "Correntes",
+    "codigoMunicipio": "2604700",
+    "população": 18327
+  },
+  {
+    "municipio": "Cortês",
+    "codigoMunicipio": "2604809",
+    "população": 12543
+  },
+  {
+    "municipio": "Cumaru",
+    "codigoMunicipio": "2604908",
+    "população": 9494
+  },
+  {
+    "municipio": "Cupira",
+    "codigoMunicipio": "2605004",
+    "população": 24237
+  },
+  {
+    "municipio": "Custódia",
+    "codigoMunicipio": "2605103",
+    "população": 37633
+  },
+  {
+    "municipio": "Dormentes",
+    "codigoMunicipio": "2605152",
+    "população": 19246
+  },
+  {
+    "municipio": "Escada",
+    "codigoMunicipio": "2605202",
+    "população": 69701
+  },
+  {
+    "municipio": "Exu",
+    "codigoMunicipio": "2605301",
+    "população": 31709
+  },
+  {
+    "municipio": "Feira Nova",
+    "codigoMunicipio": "2605400",
+    "população": 22360
+  },
+  {
+    "municipio": "Fernando de Noronha",
+    "codigoMunicipio": "2605459",
+    "população": 3140
+  },
+  {
+    "municipio": "Ferreiros",
+    "codigoMunicipio": "2605509",
+    "população": 12216
+  },
+  {
+    "municipio": "Flores",
+    "codigoMunicipio": "2605608",
+    "população": 22612
+  },
+  {
+    "municipio": "Floresta",
+    "codigoMunicipio": "2605707",
+    "população": 33488
+  },
+  {
+    "municipio": "Frei Miguelinho",
+    "codigoMunicipio": "2605806",
+    "população": 15633
+  },
+  {
+    "municipio": "Gameleira",
+    "codigoMunicipio": "2605905",
+    "população": 31578
+  },
+  {
+    "municipio": "Garanhuns",
+    "codigoMunicipio": "2606002",
+    "população": 141347
+  },
+  {
+    "municipio": "Glória do Goitá",
+    "codigoMunicipio": "2606101",
+    "população": 30847
+  },
+  {
+    "municipio": "Goiana",
+    "codigoMunicipio": "2606200",
+    "população": 80345
+  },
+  {
+    "municipio": "Granito",
+    "codigoMunicipio": "2606309",
+    "população": 7586
+  },
+  {
+    "municipio": "Gravatá",
+    "codigoMunicipio": "2606408",
+    "população": 85309
+  },
+  {
+    "municipio": "Iati",
+    "codigoMunicipio": "2606507",
+    "população": 19284
+  },
+  {
+    "municipio": "Ibimirim",
+    "codigoMunicipio": "2606606",
+    "população": 29585
+  },
+  {
+    "municipio": "Ibirajuba",
+    "codigoMunicipio": "2606705",
+    "população": 7773
+  },
+  {
+    "municipio": "Igarassu",
+    "codigoMunicipio": "2606804",
+    "população": 119690
+  },
+  {
+    "municipio": "Iguaracy",
+    "codigoMunicipio": "2606903",
+    "população": 12265
+  },
+  {
+    "municipio": "Ilha de Itamaracá",
+    "codigoMunicipio": "2607604",
+    "população": 27076
+  },
+  {
+    "municipio": "Inajá",
+    "codigoMunicipio": "2607000",
+    "população": 24034
+  },
+  {
+    "municipio": "Ingazeira",
+    "codigoMunicipio": "2607109",
+    "população": 4537
+  },
+  {
+    "municipio": "Ipojuca",
+    "codigoMunicipio": "2607208",
+    "população": 99101
+  },
+  {
+    "municipio": "Ipubi",
+    "codigoMunicipio": "2607307",
+    "população": 31515
+  },
+  {
+    "municipio": "Itacuruba",
+    "codigoMunicipio": "2607406",
+    "população": 5013
+  },
+  {
+    "municipio": "Itambé",
+    "codigoMunicipio": "2607653",
+    "população": 36495
+  },
+  {
+    "municipio": "Itapetim",
+    "codigoMunicipio": "2607703",
+    "população": 13492
+  },
+  {
+    "municipio": "Itapissuma",
+    "codigoMunicipio": "2607752",
+    "população": 27144
+  },
+  {
+    "municipio": "Itaquitinga",
+    "codigoMunicipio": "2607802",
+    "população": 17056
+  },
+  {
+    "municipio": "Itaíba",
+    "codigoMunicipio": "2607505",
+    "população": 26268
+  },
+  {
+    "municipio": "Jaboatão dos Guararapes",
+    "codigoMunicipio": "2607901",
+    "população": 711330
+  },
+  {
+    "municipio": "Jaqueira",
+    "codigoMunicipio": "2607950",
+    "população": 11632
+  },
+  {
+    "municipio": "Jataúba",
+    "codigoMunicipio": "2608008",
+    "população": 17305
+  },
+  {
+    "municipio": "Jatobá",
+    "codigoMunicipio": "2608057",
+    "população": 14904
+  },
+  {
+    "municipio": "Joaquim Nabuco",
+    "codigoMunicipio": "2608206",
+    "população": 15999
+  },
+  {
+    "municipio": "João Alfredo",
+    "codigoMunicipio": "2608107",
+    "população": 33570
+  },
+  {
+    "municipio": "Jucati",
+    "codigoMunicipio": "2608255",
+    "população": 11545
+  },
+  {
+    "municipio": "Jupi",
+    "codigoMunicipio": "2608305",
+    "população": 15007
+  },
+  {
+    "municipio": "Jurema",
+    "codigoMunicipio": "2608404",
+    "população": 15483
+  },
+  {
+    "municipio": "Lagoa Grande",
+    "codigoMunicipio": "2608750",
+    "população": 26090
+  },
+  {
+    "municipio": "Lagoa de Itaenga",
+    "codigoMunicipio": "2608503",
+    "população": 21490
+  },
+  {
+    "municipio": "Lagoa do Carro",
+    "codigoMunicipio": "2608453",
+    "população": 18429
+  },
+  {
+    "municipio": "Lagoa do Ouro",
+    "codigoMunicipio": "2608602",
+    "população": 13300
+  },
+  {
+    "municipio": "Lagoa dos Gatos",
+    "codigoMunicipio": "2608701",
+    "população": 16345
+  },
+  {
+    "municipio": "Lajedo",
+    "codigoMunicipio": "2608800",
+    "população": 40883
+  },
+  {
+    "municipio": "Limoeiro",
+    "codigoMunicipio": "2608909",
+    "população": 56149
+  },
+  {
+    "municipio": "Macaparana",
+    "codigoMunicipio": "2609006",
+    "população": 25565
+  },
+  {
+    "municipio": "Machados",
+    "codigoMunicipio": "2609105",
+    "população": 16549
+  },
+  {
+    "municipio": "Manari",
+    "codigoMunicipio": "2609154",
+    "população": 22110
+  },
+  {
+    "municipio": "Maraial",
+    "codigoMunicipio": "2609204",
+    "população": 11098
+  },
+  {
+    "municipio": "Mirandiba",
+    "codigoMunicipio": "2609303",
+    "população": 15548
+  },
+  {
+    "municipio": "Moreilândia",
+    "codigoMunicipio": "2614303",
+    "população": 11269
+  },
+  {
+    "municipio": "Moreno",
+    "codigoMunicipio": "2609402",
+    "população": 63792
+  },
+  {
+    "municipio": "Nazaré da Mata",
+    "codigoMunicipio": "2609501",
+    "população": 32673
+  },
+  {
+    "municipio": "Olinda",
+    "codigoMunicipio": "2609600",
+    "população": 393734
+  },
+  {
+    "municipio": "Orobó",
+    "codigoMunicipio": "2609709",
+    "população": 23985
+  },
+  {
+    "municipio": "Orocó",
+    "codigoMunicipio": "2609808",
+    "população": 15309
+  },
+  {
+    "municipio": "Ouricuri",
+    "codigoMunicipio": "2609907",
+    "população": 70466
+  },
+  {
+    "municipio": "Palmares",
+    "codigoMunicipio": "2610004",
+    "população": 63745
+  },
+  {
+    "municipio": "Palmeirina",
+    "codigoMunicipio": "2610103",
+    "população": 7509
+  },
+  {
+    "municipio": "Panelas",
+    "codigoMunicipio": "2610202",
+    "população": 26438
+  },
+  {
+    "municipio": "Paranatama",
+    "codigoMunicipio": "2610301",
+    "população": 11608
+  },
+  {
+    "municipio": "Parnamirim",
+    "codigoMunicipio": "2610400",
+    "população": 22198
+  },
+  {
+    "municipio": "Passira",
+    "codigoMunicipio": "2610509",
+    "população": 28856
+  },
+  {
+    "municipio": "Paudalho",
+    "codigoMunicipio": "2610608",
+    "população": 57346
+  },
+  {
+    "municipio": "Paulista",
+    "codigoMunicipio": "2610707",
+    "população": 336919
+  },
+  {
+    "municipio": "Pedra",
+    "codigoMunicipio": "2610806",
+    "população": 22716
+  },
+  {
+    "municipio": "Pesqueira",
+    "codigoMunicipio": "2610905",
+    "população": 68067
+  },
+  {
+    "municipio": "Petrolina",
+    "codigoMunicipio": "2611101",
+    "população": 359372
+  },
+  {
+    "municipio": "Petrolândia",
+    "codigoMunicipio": "2611002",
+    "população": 37246
+  },
+  {
+    "municipio": "Pombos",
+    "codigoMunicipio": "2611309",
+    "população": 27204
+  },
+  {
+    "municipio": "Poção",
+    "codigoMunicipio": "2611200",
+    "população": 11308
+  },
+  {
+    "municipio": "Primavera",
+    "codigoMunicipio": "2611408",
+    "população": 15231
+  },
+  {
+    "municipio": "Quipapá",
+    "codigoMunicipio": "2611507",
+    "população": 26309
+  },
+  {
+    "municipio": "Quixaba",
+    "codigoMunicipio": "2611533",
+    "população": 6796
+  },
+  {
+    "municipio": "Recife",
+    "codigoMunicipio": "2611606",
+    "população": 1661017
+  },
+  {
+    "municipio": "Riacho das Almas",
+    "codigoMunicipio": "2611705",
+    "população": 20744
+  },
+  {
+    "municipio": "Ribeirão",
+    "codigoMunicipio": "2611804",
+    "população": 47813
+  },
+  {
+    "municipio": "Rio Formoso",
+    "codigoMunicipio": "2611903",
+    "população": 23719
+  },
+  {
+    "municipio": "Sairé",
+    "codigoMunicipio": "2612000",
+    "população": 9600
+  },
+  {
+    "municipio": "Salgadinho",
+    "codigoMunicipio": "2612109",
+    "população": 11214
+  },
+  {
+    "municipio": "Salgueiro",
+    "codigoMunicipio": "2612208",
+    "população": 61561
+  },
+  {
+    "municipio": "Saloá",
+    "codigoMunicipio": "2612307",
+    "população": 15880
+  },
+  {
+    "municipio": "Sanharó",
+    "codigoMunicipio": "2612406",
+    "população": 27308
+  },
+  {
+    "municipio": "Santa Cruz",
+    "codigoMunicipio": "2612455",
+    "população": 15713
+  },
+  {
+    "municipio": "Santa Cruz da Baixa Verde",
+    "codigoMunicipio": "2612471",
+    "população": 12708
+  },
+  {
+    "municipio": "Santa Cruz do Capibaribe",
+    "codigoMunicipio": "2612505",
+    "população": 111812
+  },
+  {
+    "municipio": "Santa Filomena",
+    "codigoMunicipio": "2612554",
+    "população": 14645
+  },
+  {
+    "municipio": "Santa Maria da Boa Vista",
+    "codigoMunicipio": "2612604",
+    "população": 42266
+  },
+  {
+    "municipio": "Santa Maria do Cambucá",
+    "codigoMunicipio": "2612703",
+    "população": 14308
+  },
+  {
+    "municipio": "Santa Terezinha",
+    "codigoMunicipio": "2612802",
+    "população": 11914
+  },
+  {
+    "municipio": "Serra Talhada",
+    "codigoMunicipio": "2613909",
+    "população": 87467
+  },
+  {
+    "municipio": "Serrita",
+    "codigoMunicipio": "2614006",
+    "população": 19226
+  },
+  {
+    "municipio": "Sertânia",
+    "codigoMunicipio": "2614105",
+    "população": 36189
+  },
+  {
+    "municipio": "Sirinhaém",
+    "codigoMunicipio": "2614204",
+    "população": 46845
+  },
+  {
+    "municipio": "Solidão",
+    "codigoMunicipio": "2614402",
+    "população": 6034
+  },
+  {
+    "municipio": "Surubim",
+    "codigoMunicipio": "2614501",
+    "população": 66192
+  },
+  {
+    "municipio": "São Benedito do Sul",
+    "codigoMunicipio": "2612901",
+    "população": 16239
+  },
+  {
+    "municipio": "São Bento do Una",
+    "codigoMunicipio": "2613008",
+    "população": 60567
+  },
+  {
+    "municipio": "São Caitano",
+    "codigoMunicipio": "2613107",
+    "população": 37488
+  },
+  {
+    "municipio": "São Joaquim do Monte",
+    "codigoMunicipio": "2613305",
+    "população": 21439
+  },
+  {
+    "municipio": "São José da Coroa Grande",
+    "codigoMunicipio": "2613404",
+    "população": 21868
+  },
+  {
+    "municipio": "São José do Belmonte",
+    "codigoMunicipio": "2613503",
+    "população": 34082
+  },
+  {
+    "municipio": "São José do Egito",
+    "codigoMunicipio": "2613602",
+    "população": 34210
+  },
+  {
+    "municipio": "São João",
+    "codigoMunicipio": "2613206",
+    "população": 23002
+  },
+  {
+    "municipio": "São Lourenço da Mata",
+    "codigoMunicipio": "2613701",
+    "população": 114910
+  },
+  {
+    "municipio": "São Vicente Férrer",
+    "codigoMunicipio": "2613800",
+    "população": 18150
+  },
+  {
+    "municipio": "Tabira",
+    "codigoMunicipio": "2614600",
+    "população": 28860
+  },
+  {
+    "municipio": "Tacaimbó",
+    "codigoMunicipio": "2614709",
+    "população": 12843
+  },
+  {
+    "municipio": "Tacaratu",
+    "codigoMunicipio": "2614808",
+    "população": 26439
+  },
+  {
+    "municipio": "Tamandaré",
+    "codigoMunicipio": "2614857",
+    "população": 23852
+  },
+  {
+    "municipio": "Taquaritinga do Norte",
+    "codigoMunicipio": "2615003",
+    "população": 29472
+  },
+  {
+    "municipio": "Terezinha",
+    "codigoMunicipio": "2615102",
+    "população": 7227
+  },
+  {
+    "municipio": "Terra Nova",
+    "codigoMunicipio": "2615201",
+    "população": 10314
+  },
+  {
+    "municipio": "Timbaúba",
+    "codigoMunicipio": "2615300",
+    "população": 52587
+  },
+  {
+    "municipio": "Toritama",
+    "codigoMunicipio": "2615409",
+    "população": 47088
+  },
+  {
+    "municipio": "Tracunhaém",
+    "codigoMunicipio": "2615508",
+    "população": 13856
+  },
+  {
+    "municipio": "Trindade",
+    "codigoMunicipio": "2615607",
+    "população": 31103
+  },
+  {
+    "municipio": "Triunfo",
+    "codigoMunicipio": "2615706",
+    "população": 15232
+  },
+  {
+    "municipio": "Tupanatinga",
+    "codigoMunicipio": "2615805",
+    "população": 27793
+  },
+  {
+    "municipio": "Tuparetama",
+    "codigoMunicipio": "2615904",
+    "população": 8266
+  },
+  {
+    "municipio": "Venturosa",
+    "codigoMunicipio": "2616001",
+    "população": 18835
+  },
+  {
+    "municipio": "Verdejante",
+    "codigoMunicipio": "2616100",
+    "população": 9572
+  },
+  {
+    "municipio": "Vertente do Lério",
+    "codigoMunicipio": "2616183",
+    "população": 7526
+  },
+  {
+    "municipio": "Vertentes",
+    "codigoMunicipio": "2616209",
+    "população": 21172
+  },
+  {
+    "municipio": "Vicência",
+    "codigoMunicipio": "2616308",
+    "população": 32897
+  },
+  {
+    "municipio": "Vitória de Santo Antão",
+    "codigoMunicipio": "2616407",
+    "população": 140389
+  },
+  {
+    "municipio": "Xexéu",
+    "codigoMunicipio": "2616506",
+    "população": 14789
+  },
+  {
+    "municipio": "Água Preta",
+    "codigoMunicipio": "2600401",
+    "população": 37386
+  },
+  {
+    "municipio": "Águas Belas",
+    "codigoMunicipio": "2600500",
+    "população": 43923
+  }
+]
